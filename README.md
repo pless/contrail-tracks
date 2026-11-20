@@ -32,9 +32,9 @@ The longest contrail with the model on the aircraft: DAL75 seen from Windsor Mil
 
 ## One contrail in 3-D from five webcams at once
 
-[![AFR132's contrail in 3-D, seen from above](img/AFR132_3d_from_above.jpg)](https://pless.github.io/contrail-tracks/AFR132_contrail_3d.html)
+[![AFR132's contrail in 3-D, seen from above](img/AFR132_3d_from_above.jpg)](https://pless.github.io/contrail-tracks/AFR132_contrail_3d)
 
-**[Open the interactive 3-D view](https://pless.github.io/contrail-tracks/AFR132_contrail_3d.html)** (drag to turn it).
+**[Open the interactive 3-D view](https://pless.github.io/contrail-tracks/AFR132_contrail_3d)** (drag to turn it).
 
 AFR132 (Boeing 777) at 37,000 feet over Castellón, Spain, 16 October 2026, 15:56 to 16:12 UTC. Several weather-station webcams took a picture in the same second. Each camera sees the contrail as a line. The other cameras' pictures give that line's height (stereo), so the line can be placed in 3-D. At 16:06, five cameras put the contrail at 11.75 to 12.13 km, and their pieces lie within 225 to 500 m of each other. The aircraft's GPS height was 11.74 km. Seen from above, the contrail drifts east of the flight track as it ages: that drift is the wind at 12 km. Red: the aircraft's ADS-B track. Green sheets: each camera's line of sight at 16:06.
 
